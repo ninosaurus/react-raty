@@ -1,6 +1,6 @@
 {
   "name": "@fishingbooker/react-raty",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "React Raty Display",
   "main": "lib/index.js",
   "scripts": {
