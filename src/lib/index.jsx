@@ -27,7 +27,7 @@ class ReactRaty extends PureComponent {
 }
 
 ReactRaty.defaultProps = {
-    rating: 4.24
+    rating: 5
 };
 
 ReactRaty.propTypes = {
