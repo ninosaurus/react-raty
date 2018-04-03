@@ -1,6 +1,6 @@
 {
   "name": "@fishingbooker/react-raty",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "React Raty Display",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,15 @@
     "docs": "webpack-dev-server",
     "docs:prod": "webpack -p"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react-raty",
+    "react-bootstrap",
+    "glyphicons",
+    "start",
+    "react-stars",
+    "raty-stars"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "react": "^15.3.0 || ^16.2.0",
